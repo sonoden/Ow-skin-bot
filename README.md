@@ -22,7 +22,7 @@ The Overwatch Skin Bot is a utility that helps players keep track of skins for c
 3. **Configure the Bot**:
    - Create a `.env` file in the root directory and set your bot token:
      ```
-     BOT_TOKEN=your_bot_token_here
+     BOT_TOKEN=123456789012345678
      ```
 4. **Run the Bot**:
    Once configured, you can start the bot with:
